@@ -1,23 +1,26 @@
-body{background-color: white;
+body{background-color:grey;
 margin:0;
 width:100%;
-height:100%;}
-.main{background-color: gray;
-  margin: 0;
- padding: 50px;}
- 
+height:50vh;} 
+.header{background-color: darkgrey;
+  height: 20vh;
+  width: 100%;
+}
 
  .footer {background-color: black;
-margin:0;
-padding:50px;
-widows: 100px;vw;}
+margin:auto;
+width: 70%
+height: 20vh;
+place-content: center;}
 
-.header {background-color: whitesmoke
+
+
+.main {background-color: whitesmoke
  box-sizing: border-box;
- margin:100px;
-width:100px;
-height: 500px;
-border: solidgray 80px;
-background-color: whitesmoke;}
+ margin: auto;
+widith: 70px;%;
+height: 10vh;
+background-color: whitesmoke;
+place-content: center;
 }
 
